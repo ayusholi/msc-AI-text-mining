@@ -1,7 +1,7 @@
 # Notes
 
-Last updated: 2026-03-08T13:25:49.224Z
+Last updated: 2026-03-08T13:34:43.038Z
 
 ## Today's progress
 
-- add architecture decision records
+- implement error handling middleware
