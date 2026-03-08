@@ -1,7 +1,7 @@
 # Notes
 
-Last updated: 2026-03-08T13:34:43.038Z
+Last updated: 2026-03-08T13:45:00.031Z
 
-## Today's progress
+## Progress
 
-- implement error handling middleware
+- handle null pointer exception
