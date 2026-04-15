@@ -2,5 +2,5 @@
 
 ## [Unreleased]
 
-- add integration tests for API endpoints
-- Updated: 2026-04-15T13:00:04.373Z
+- move constants to dedicated config file
+- Build: 2026-04-15T13:00:04.373Z
