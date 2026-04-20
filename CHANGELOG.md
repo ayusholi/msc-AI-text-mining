@@ -2,5 +2,5 @@
 
 ## [Unreleased]
 
-- move constants to dedicated config file
-- Build: 2026-04-15T13:00:04.373Z
+- add input sanitization and validation
+- Updated: 2026-04-20T13:00:02.159Z
